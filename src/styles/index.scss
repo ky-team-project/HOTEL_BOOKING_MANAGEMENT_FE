@@ -1,4 +1,4 @@
-@import "./variables.scss";
-@import "./layout.scss";
-@import "./admin.scss";
-@import "./components.scss";
+@use "./variables.scss" as *;
+@use "./layout.scss";
+@use "./admin.scss";
+@use "./components.scss";

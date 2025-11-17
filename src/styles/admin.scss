@@ -1,4 +1,4 @@
-@import "./variables.scss";
+@use "./variables.scss" as *;
 
 // 관리자 레이아웃
 .admin-layout {
